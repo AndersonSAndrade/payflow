@@ -1,5 +1,6 @@
 # Projeto Microserviços Worker (CURSO DEVSUPERIOR)
 #### Projeto HR em microserviços básico.
+### by Anderson S. Andrade
 
 ## Processos
 - [x] Microserviço - hr-worker implementation.
